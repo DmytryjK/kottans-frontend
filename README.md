@@ -68,3 +68,35 @@
 
 Отдельно хотелось бы отметить 2 статьи по HTTP, честно говоря как-то они очень туго у меня шли, в том плане, что много технических терминов, которые без практики заполнить очень сложно, есть гугл для этого. И на начальном этапе я не уверен, что это мне действительно пригодится, разве что ajax запросы к серверу, о которых там писали))
 
+
+
+# Git Collaboration
+
+- ## Introduction to Git and GitHub (Coursera 3-4weeks):
+
+<details>
+  <summary>3 week:</summary>
+  <img src = "task_git_collaboration/Coursera_3week.jpg">
+</details>
+
+<details>
+  <summary>4 week:</summary>
+  <img src = "task_git_collaboration/Coursera_4week.jpg">
+</details>
+
+Эти 2 недели лекций пригодились бы, когда мы форкали ваш репо и делали PR. Как раз в данных лекциях всё разжевали, но я их увидел поздно))
+
+- ## learngitbranching.js.org:
+
+<details>
+  <summary>Основы</summary>
+  <img src = "task_git_collaboration/Основы.png">
+</details>
+
+<details>
+  <summary>Удалённые репо</summary>
+  <img src = "task_git_collaboration/Удалённые репо.png">
+</details>
+
+
+
