@@ -1,6 +1,6 @@
 # kottans-frontend 2022 online courses
 
-# Git та GitHub
+# 1. Git та GitHub
 
 - ## Coursera 1 & 2 week:
 
@@ -38,7 +38,7 @@
 
 
 
-# Linux CLI, and HTTP
+# 2. Linux CLI, and HTTP
 
 - ## Linux Survival (4 modules):
 
@@ -70,7 +70,7 @@
 
 
 
-# Git Collaboration
+# 3. Git Collaboration
 
 - ## Coursera 3 & 4 week:
 
@@ -100,7 +100,7 @@
 
 
 
-# Intro to HTML and CSS
+# 4. Intro to HTML and CSS
 
 - ## Coursera 1 & 2 week:
 
