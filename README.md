@@ -72,7 +72,7 @@
 
 # Git Collaboration
 
-- ## Introduction to Git and GitHub (Coursera 3-4weeks):
+- ## Coursera 3 & 4 week:
 
 <details>
   <summary>3 week:</summary>
@@ -98,5 +98,37 @@
   <img src = "task_git_collaboration/Удалённые репо.png">
 </details>
 
+
+
+# Intro to HTML and CSS
+
+- ## Coursera 1 & 2 week:
+
+<details>
+  <summary>1 week:</summary>
+  <img src = "task_html_css_intro/1week.jpg">
+</details>
+
+<details>
+  <summary>2 week:</summary>
+  <img src = "task_html_css_intro/2week.jpg">
+</details>
+
+Прошёл данные курсы в ускоренном режиме, до этого учил HTML/CSS, так что вся информация мне знакома. Но если бы сейчас начинал с нуля, то были бы большие трудности. Снова таки, материал на английском, субтитры плохие, воспринимать материал тяжело.
+
+- ## Learn HTML & CSS (codecademy):
+
+<details>
+  <summary>HTML + CSS screen</summary>
+  <img src = "task_html_css_intro/Codecademy html + css">
+</details>
+
+
+### HTML:
+> Некоторые вещи для себя взял на вооружение (создание аудио, видео контента на сайте, теги figure, figcaptcha)
+> Очень полезно было хорошенько по формам пройтись и валидации, использование регулярных выражений в атрибутах тоже очень полезная фича.
+
+### CSS
+>Наконец-то загрузил шрифты не через линк с гугла, а через импорт в CSS @font-face. Раньше не применял на практике, хоть и знал, что есть такая возможность, руки никак не доходили.
 
 
