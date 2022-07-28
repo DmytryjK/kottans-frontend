@@ -120,7 +120,7 @@
 
 <details>
   <summary>HTML + CSS screen</summary>
-  <img src = "task_html_css_intro/Codecademy html + css">
+  <img src = "task_html_css_intro/Codecademy html + css.jpg">
 </details>
 
 
