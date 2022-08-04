@@ -151,3 +151,7 @@
   <summary>Screen:</summary>
   <img src = "task_responsive_web_design/grids.jpg">
 </details>
+
+# 6. HTML-CSS-Popup
+
+[DEMO](https://dmytryjk.github.io/Hooli-style/)
