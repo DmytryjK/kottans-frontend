@@ -159,8 +159,8 @@
 
 # 7. JS Basics
 
----
+In progress...
 
 # 8. JS DOM task
 
-[DEMO](https://dmytryjk.github.io/DOM Object Model/)
+[DEMO](https://dmytryjk.github.io/DOM%20Object%20Model/)
