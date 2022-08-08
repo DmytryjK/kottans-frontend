@@ -163,4 +163,4 @@
 
 # 8. JS DOM task
 
-[DEMO]()
+[DEMO](https://dmytryjk.github.io/DOM Object Model/)
