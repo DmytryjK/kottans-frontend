@@ -155,3 +155,12 @@
 # 6. HTML-CSS-Popup
 
 [DEMO](https://dmytryjk.github.io/Hooli-style/)
+
+
+# 7. JS Basics
+
+---
+
+# 8. JS DOM task
+
+[DEMO]()
