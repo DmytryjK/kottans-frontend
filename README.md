@@ -159,7 +159,54 @@
 
 # 7. JS Basics
 
-In progress...
+- ## Coursera 4week
+
+<details>
+  <summary>Screen:</summary>
+  <img src = "task_js_basics/coursera.jpg">
+</details>
+
+> В целом многое из видео по базовому JS мне знакомо, хотелось бы видеть курс не 2015-го года :) Конечно, основы они +- актуальны, но всё же, когда человек только начинает изучать JS - лучше сразу иметь актуальную информацию.
+
+- ## FreeCodeCamp 
+
+<details>
+  <summary>Basic JavaScript:</summary>
+  <img src = "task_js_basics/1.jpg">
+</details>
+
+<details>
+  <summary>ES6 Challenges:</summary>
+  <img src = "task_js_basics/2.jpg">
+</details>
+
+<details>
+  <summary>Basic Data Structures:</summary>
+  <img src = "task_js_basics/3.jpg">
+</details>
+
+<details>
+  <summary>Basic Algorithm Scripting:</summary>
+  <img src = "task_js_basics/4.jpg">
+</details>
+
+<details>
+  <summary>Functional Programming:</summary>
+  <img src = "task_js_basics/5.jpg">
+</details>
+
+<details>
+  <summary>Algorithm Scripting Challenges:</summary>
+  <img src = "task_js_basics/6.jpg">
+</details>
+
+> Моему горению нет предела. Это было сложно, именно морально, очень тяжело себя мотивировать проходить задачи в таком количестве дней 5-6, особенно по последним пунктам, когда далеко не всё получается. Первая сотня улетела очень быстро, т.к. там основы и я это +- понимаю. Но вот с последними пунктами была прям беда, 3-4 часа у меня уходило не на весь раздел, а на несколько задач и то, в конце не всегда хватало терпения довести всё до конца, подглядывал в подсказки логику решения.
+
+> Поработал с методами filter, map, reduce, раньше в них как-то не углублялся. Знал что они есть и на этом все. Честно говоря не очень были понятны объяснения из FreeCodeCamp, пришлось смотреть отдельное видео на ютубе, где разложили материал по полочкам.
+
+> Ещё заметил, что было тяжело работать со строками, из-за того, что раньше сильно в методы с ними не углубляся. Так что определённая польза от данного курса есть)
+
+> В общем, я был очень доволен, когда с этим закончил и смог приступить к задаче по DOM-JS, прямо кайфанул))
 
 # 8. JS DOM task
 
