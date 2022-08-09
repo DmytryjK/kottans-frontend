@@ -210,7 +210,7 @@
 
 # 8. JS DOM task
 
-- ## Coursera 4week
+- ## Coursera 5week
 
 <details>
   <summary>Screen:</summary>
