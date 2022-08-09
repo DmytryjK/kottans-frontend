@@ -210,4 +210,22 @@
 
 # 8. JS DOM task
 
+- ## Coursera 4week
+
+<details>
+  <summary>Screen:</summary>
+  <img src = "task_js_dom/Coursera/Screenshot_1.jpg">
+</details>
+
+> С домом раньше работал, видео было достаточно просто воспринимать.
+
+- ## FreeCodeCamp 
+
+<details>
+  <summary>Screen:</summary>
+  <img src = "task_js_dom/Freecodecamp/1.jpg">
+</details>
+
+> Мой любимчик :) 
+
 [DEMO](https://dmytryjk.github.io/DOM%20Object%20Model/)
