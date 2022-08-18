@@ -229,3 +229,7 @@
 > Мой любимчик :) 
 
 [DEMO](https://dmytryjk.github.io/DOM%20Object%20Model/)
+
+# 9. Building a Tiny JS World (pre-OOP)
+
+[DEMO](https://dmytryjk.github.io/a-tiny-JS-world/)
