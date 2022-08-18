@@ -236,8 +236,8 @@
 
 # 10. Object Oriented JS
 
-[DEMO](https://dmytryjk.github.io/frontend-nanodegree-arcade-game/)
-[Code Base](https://github.com/DmytryjK/frontend-nanodegree-arcade-game)
+- [DEMO](https://dmytryjk.github.io/frontend-nanodegree-arcade-game/)
+- [Code Base](https://github.com/DmytryjK/frontend-nanodegree-arcade-game)
 
 - ## Codewars
 
