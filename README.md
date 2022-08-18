@@ -233,3 +233,15 @@
 # 9. Building a Tiny JS World (pre-OOP)
 
 [DEMO](https://dmytryjk.github.io/a-tiny-JS-world/)
+
+# 10. Object Oriented JS
+
+[DEMO](https://dmytryjk.github.io/frontend-nanodegree-arcade-game/)
+[Code Base](https://github.com/DmytryjK/frontend-nanodegree-arcade-game)
+
+- ## Codewars
+
+<details>
+  <summary>Screen:</summary>
+  <img src = "task_js_oop/codewars.jpg">
+</details>
