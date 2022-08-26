@@ -248,5 +248,5 @@
 
 # 11. Memory Pair Game
 
-- [DEMO](dmytryjk.github.io/MemoryPairGame/)
+- [DEMO](https://dmytryjk.github.io/MemoryPairGame/)
 - [Code Base](https://github.com/DmytryjK/kottans-frontend/tree/main/task_memory_pair_game)
