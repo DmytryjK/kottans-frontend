@@ -245,3 +245,8 @@
   <summary>Screen:</summary>
   <img src = "task_js_oop/codewars.jpg">
 </details>
+
+# 11. Memory Pair Game
+
+- [DEMO](dmytryjk.github.io/MemoryPairGame/)
+- [Code Base](https://github.com/DmytryjK/kottans-frontend)
