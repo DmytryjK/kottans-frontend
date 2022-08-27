@@ -246,7 +246,12 @@
   <img src = "task_js_oop/codewars.jpg">
 </details>
 
-# 11. Memory Pair Game
+# 11. OOP exercise (Tiny JS World)
+
+- [DEMO](https://dmytryjk.github.io/a-tiny-JS-world/)
+- [Code Base](https://github.com/DmytryjK/a-tiny-JS-world/tree/master)
+
+# 12. Memory Pair Game
 
 - [DEMO](https://dmytryjk.github.io/MemoryPairGame/)
 - [Code Base](https://github.com/DmytryjK/kottans-frontend/tree/main/task_memory_pair_game)
